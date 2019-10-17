@@ -16,7 +16,7 @@ function Fisz_est  = ddhf_est_Iso_Kronecker(x, h, zero_levels, thr, theta, BseOn
 % %    returns:
 % %    the estimate "Fisz_est"
   
-% % Younes, 12/04/2016
+% % Younes, 12/04/2017
 
 
 
